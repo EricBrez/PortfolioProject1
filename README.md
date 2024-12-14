@@ -1,6 +1,6 @@
 The artifact is an application that can hold animals that are being trained as rescue animals, contradictory to what my code review stated (showcasing the importance of documentation) that I created in the second computer science class that I took (introduction to application development). I chose to include it in my portfolio because I wanted to show how I have progressed since I started as I had no coding experience before starting at SNHU. For this enhancement I ported the entire project from Java to C++, improved the structure of the application, reducing a significant amount of redundant or unnecessary code. Finally, I added security improvements including input validation and error handling. I also did a little bit of changes to how the program output displayed, mainly by reorganizing the menu options to have a better flow. The only challenge I faced while performing this enhancement were structuring the .h and .cpp files correctly, at one point I had almost 400 errors lined up because of a namespace issue. Removing the overarching use of the std namespace for .h files and individually defining the namespace where necessary according to best practices for .h files fixed the issue and the rest flowed smoothly.
 
-This enhancment met the following goals:
+This enhancement met the following goals:
 
 •	Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts.
 
